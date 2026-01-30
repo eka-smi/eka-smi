@@ -36,4 +36,4 @@ Right now this profile is where I publish smaller research projects, notebooks, 
 ## Reach me
 
 - Email: **ekasmiterina@gmail.com**
-- Telegram: **@Ekasmi** (https://t.me/Ekasmi) :contentReference[oaicite:6]{index=6}
+- Telegram: **@Ekasmi** (https://t.me/Ekasmi) 
